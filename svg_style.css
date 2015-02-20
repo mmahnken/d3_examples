@@ -1,0 +1,33 @@
+.rectangle1 {
+    fill: #EAC947; 
+    stroke:#000000;
+    stroke-width:2px;
+}
+
+.rectangle2 {
+    fill: #EAD88D; 
+    stroke:#000000; 
+    stroke-width:2px;
+    fill-opacity:0.7;
+}
+
+.rectangle3 {
+    fill: #6B6240; 
+    stroke:#000000; 
+    stroke-width:2px;
+    fill-opacity:0.7;
+}
+
+.rectangle4 {
+    fill: #9E915F; 
+    stroke:#000000; 
+    stroke-width:2px;
+    fill-opacity:0.7;
+}
+
+.rectangle5 {
+    fill: #AE9635; 
+    stroke:#000000; 
+    stroke-width:2px;
+    fill-opacity:0.7;
+}
